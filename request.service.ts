@@ -1,3 +1,9 @@
+
+/**
+
+ * Created by QQ Wang on 2017/8/31
+
+ */
 import { Injectable } from '@angular/core';
 import { Http, URLSearchParams, Response } from '@angular/http';
 import { SpinnerService } from './spinner.service';
