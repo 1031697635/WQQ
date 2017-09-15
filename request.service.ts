@@ -1,6 +1,5 @@
 
 /**
-
  * Created by QQ Wang on 2017/8/31
  * 公共请求方式的封装
  */
